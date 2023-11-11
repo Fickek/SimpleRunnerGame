@@ -1,0 +1,10 @@
+﻿  dasher.cpp
+C:\Users\Daniil\source\repos\DashDasher\DashDasher\dasher.cpp(65,41): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Daniil\source\repos\DashDasher\DashDasher\dasher.cpp(66,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Daniil\source\repos\DashDasher\DashDasher\dasher.cpp(72,33): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Daniil\source\repos\DashDasher\DashDasher\dasher.cpp(89,45): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Daniil\source\repos\DashDasher\DashDasher\dasher.cpp(90,47): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Daniil\source\repos\DashDasher\DashDasher\dasher.cpp(91,48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Daniil\source\repos\DashDasher\DashDasher\dasher.cpp(95,48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Daniil\source\repos\DashDasher\DashDasher\dasher.cpp(174,33): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  DashDasher.vcxproj -> C:\Users\Daniil\source\repos\DashDasher\x64\Debug\DashDasher.exe
